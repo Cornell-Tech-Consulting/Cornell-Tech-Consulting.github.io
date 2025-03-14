@@ -1,0 +1,125 @@
+.btn-l {
+    position: relative;
+    text-decoration: none;
+    color: var(--ctc-red);
+    outline: var(--ctc-red) 2px solid;
+    padding: 10px;
+    margin-top: 5%;
+    width: 50%;
+    transition: background-color 0.4s;
+}
+
+.btn-l p{
+    transition: transform .3s ease;
+}
+
+.btn-l:before {
+    content: "";
+    background-image: url("../images/arrow-right-red.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 90%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 20px;
+    opacity: 1;
+}
+
+.btn-l:after {
+    content: "";
+    background-image: url("../images/arrow-right-black.png");
+    filter: invert(1);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 20px;
+    opacity: 0;
+    transition: transform .3s ease;
+}
+
+.btn-l:hover {
+    background-color: var(--ctc-red);
+    color: white;
+}
+
+.btn-l:hover p {
+    transform: translateX(20%);
+}
+
+.btn-l:hover:before {
+    opacity: 0;
+}
+
+.btn-l:hover:after {
+    opacity: 1;
+    transform: translate(-50%, -50%) translateX(85%);
+}
+
+.btn-r {
+    position: relative;
+    text-decoration: none;
+    color: var(--ctc-red);
+    outline: var(--ctc-red) 2px solid;
+    padding: 10px;
+    margin-top: 5%;
+    width: 50%;
+    transition: background-color 0.4s;
+}
+
+.btn-r p{
+    transition: transform .3s ease;
+}
+
+.btn-r:before {
+    content: "";
+    background-image: url("../images/arrow-left-red.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 10%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 20px;
+    opacity: 1;
+}
+
+.btn-r:after {
+    content: "";
+    background-image: url("../images/arrow-left-black.png");
+    filter: invert(1);
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 90%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 20px;
+    opacity: 0;
+    transition: transform .3s ease;
+}
+
+.btn-r:hover {
+    background-color: var(--ctc-red);
+    color: white;
+}
+
+.btn-r:hover p {
+    transform: translateX(-20%);
+}
+
+.btn-r:hover:before {
+    opacity: 0;
+}
+
+.btn-r:hover:after {
+    opacity: 1;
+    transform: translate(-50%, -50%) translateX(-85%);
+}

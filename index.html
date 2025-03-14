@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang = "en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Home - Cornell Technology Consulting Club</title>
+    <link rel="stylesheet" type="text/css" href="styles/home.css">
+    <link rel="stylesheet" type="text/css" href="styles/btn.css">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:400,700">
+</head>
+
+<body>
+<header>
+    <div class="header-bar">
+        <a class="logo-anchor" href="index.html">
+            <img class="logo" src="images/logo_red.png" alt="">
+        </a>
+<!--        <h1>Cornell Tech Consulting Club</h1>-->
+<!--        TODO ADD A RED OUTLINEDBOX AROUND CURRENT TAB-->
+        <nav>
+            <ul id="topNav">
+                <li><a href = "index.html">Home</a></li>
+                <li><a href = "work.html">Our Work</a></li>
+                <li><a href = "team.html">Team</a></li>
+                <li><a href = "contact.html">Contact Us</a></li>
+                <li><a href = "apply.html">Apply</a></li>
+            </ul>
+            <button id="hamMenu" class="hamburger-menu hidden">
+                <span class="line"></span>
+                <span class="line"></span>
+                <span class="line"></span>
+            </button>
+        </nav>
+    </div>
+
+    <div id="pageLinks" class="hamburgernav hidden">
+        <a href = "index.html">About Us</a>
+        <a href = "work.html">Our Work</a>
+        <a href = "team.html">Team</a>
+        <a href = "contact.html">Alumni</a>
+        <a href = "apply.html">Join Us</a>
+    </div>
+</header>
+
+<section>
+    <div class="intro">
+        <div class="intro-image"></div>
+        <div class="intro-text">
+            <h1>Cornell Tech Consulting Club</h1>
+            <p>Empowering the Ithaca Community by <span id="tagline"></span></p>
+
+<!--            Leveraging Technology-->
+        </div>
+    </div>
+
+    <div class="break"></div>
+
+    <div class="summary">
+        <h2>About Us</h2>
+        <h3>Our mission is to drive positive change in the Ithaca community by providing technical and strategic solutions to those who can benefit from it most.
+            We equip small businesses, student startups, and other local institutions with the tools and knowledge needed to thrive.</h3>
+    </div>
+
+    <div class="subsection">
+        <div class="container">
+            <div class="text-l">
+                <h2>Unlocking Client Potential</h2>
+                <p>We help companies integrate technology into their organizations, explore and understand new markets, and optimize their operations.</p>
+                <a href="work.html" class="btn-l">
+                    <p>Learn More</p>
+                </a>
+            </div>
+            <div class="image">
+                <img src="images/presentation.JPG" alt="">
+                <div class="rect-r"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="subsection">
+        <div class="container">
+            <div class="image">
+                <img src="images/groupphoto.png" alt="">
+                <div class="rect-l"></div>
+            </div>
+            <div class="text-r">
+                <h2>Innovation Through Collaboration</h2>
+                <p>We are a culture-driven organization, and we strive to provide an environment where all of our members can contribute in unique and meaningful ways.</p>
+                <a href="team.html" class="btn-r">
+                    <p>Meet the Team</p>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <div class="footer-bar">
+        <div class="disclaimers">
+            <p>©2025 by Cornell Tech Consulting Club (CTC). All rights reserved.</p>
+            <p>This organization is a registered student organization of Cornell University</p>
+        </div>
+
+        <div class="socials">
+            <a href="mailto:techconsultingcornell@gmail.com">
+                <p>Contact Us</p>
+            </a>
+
+            <a href="https://www.instagram.com/cornelltc/">
+                <img class="social-logo" src="images/insta.png" alt="">
+            </a>
+
+            <a href="https://www.linkedin.com/company/cornelltechconsulting">
+                <img class="social-logo" src="images/linkedin.png" alt="">
+            </a>
+        </div>
+    </div>
+</footer>
+
+<script src="scripts/jquery-3.7.1.js"></script>
+<script src="scripts/loadElements.js"></script>
+<script src="scripts/hamburger.js"></script>
+<script src="scripts/tagline.js"></script>
+
+</body>
+</html>
