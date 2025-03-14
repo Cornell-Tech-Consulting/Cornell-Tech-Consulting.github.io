@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25d36ce9-1d59-4389-841e-a8b11d058de4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/about_old.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/cardsorting1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/cardsorting2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/cc_nar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/cc_wide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/cfc_nar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/cfc_wide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/collapse-sketch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/ctclogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/design-journey.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/ham-sketch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/homepg_old.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/layoutex1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/layoutex2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/narrowabt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/narrowteamjoin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/narrowwork.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/segc_nar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/segc_wide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/services_old.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/team-contract.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/wideabt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/widejoin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/wideteam.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-plan/widework.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2sEYNRZ9k8WNowVJvTorornpkoA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.header.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.ourwork.html.executor": "Run",
+    "JavaScript Debug.work.html.executor": "Run",
+    "Node.js.loadElements.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/bennozik/Documents/Cornell/Other/CTC/Website/CTC Website/styles",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/styles" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d36ce9-1d59-4389-841e-a8b11d058de4" name="Changes" comment="" />
+      <created>1738022161506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738022161506</updated>
+      <workItem from="1738022162565" duration="309000" />
+      <workItem from="1738259703140" duration="1200000" />
+      <workItem from="1738604632923" duration="68080000" />
+      <workItem from="1741039395836" duration="3238000" />
+      <workItem from="1741362387567" duration="11685000" />
+      <workItem from="1741640683031" duration="4777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
